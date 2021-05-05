@@ -1,0 +1,357 @@
+{
+	"Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"0",
+      "admob_open_ads":"",
+      "admob_banner":"",
+      "admob_inter":"",
+      "admob_native":"",
+      "interval":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":0,
+      "judul":"Kawaii",
+      "image":"https://play-lh.googleusercontent.com/NCez2o_YvLOYt6mJjqj3dIUaGn66SfGvFKF0I1Sp7Nn5N9tbss402hXvyJu3rm1iFC4R=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.kawaiiskinmcpe"
+    },
+    {
+      "id":0,
+      "judul":"Dream",
+      "image":"https://play-lh.googleusercontent.com/5KZz8n00Taihr5SpGckMO_JES9H9jfcoPu6T2uYvwgORw7yy0mZNUbWYl7lgt2dUf_6x=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.dreamskinformcpe"
+    },
+    {
+      "id":0,
+      "judul":"Zombie",
+      "image":"https://play-lh.googleusercontent.com/QYAvF7FIjPTfMDkVyOBKLtpOGF3Qx2I_AWFhSIgO6PGRE0lFQUTYxDWQrSNVpQzAbZo=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.zombieskinminecraft"
+    }
+  ],
+  "Skin":
+  [
+  {
+    "id":1,
+    "nama_skin":"Oyun Portal",
+    "skin_url":"https://ia801508.us.archive.org/0/items/portal-gum/portal/oyun-portal.png",
+    "view_skin":"https://lh3.googleusercontent.com/J2p_grSaDwVhhZoCtSaElBpFiLTWpcgE8s-GlpCirgMiUiR0eKFHSs_YS2sz7FEt481si3DHVGBwOig4EmTO4w"
+  },
+  {
+    "id":2,
+    "nama_skin":"Portal Gum HD",
+    "skin_url":"https://ia801508.us.archive.org/0/items/portal-gum/portal/portal-gum.png",
+    "view_skin":"https://lh3.googleusercontent.com/yjRjJ3LI1EuIba6z06aw9sZWRTkpA5wlFbZVTZOPuvWv4uYRnGQKoArqDUpoYSqcQBzuER9dYNrCRsAxqDKdcg"
+  },
+  {
+    "id":3,
+    "nama_skin":"Portal Frame",
+    "skin_url":"https://ia801508.us.archive.org/0/items/portal-gum/portal/portal-frame.png",
+    "view_skin":"https://lh3.googleusercontent.com/ndDLz4sqI5EUk1m5vovxjovL1dULz3-Jwnhl0xFDDs2Pc3dyXEGZjr0PT_npU40UY0hs4bELOYazvJVdEhK4ow"
+  },
+  {
+    "id":4,
+    "nama_skin":"Rick and Morty Portal",
+    "skin_url":"https://ia801508.us.archive.org/0/items/portal-gum/portal/rick-and-morty.png",
+    "view_skin":"https://lh3.googleusercontent.com/Ww_S8INGF4RFEHdscy2R6MdF11H1lDA3aH2aZbAY9p53IN0q-BT4IAGnjuLUqGa9YIq5Oq5CB-okf74H4bBKog"
+  },
+  {
+    "id":5,
+    "nama_skin":"Portal Gun",
+    "skin_url":"https://ia801508.us.archive.org/0/items/portal-gum/portal/potral-gun.png",
+    "view_skin":"https://lh3.googleusercontent.com/LCew-Ov_bo7cTN5YKnGORlX6USncY54ls_-e-5V8RPiOGKJs3qdB0q1q050G7gXb7OoDzRHCXhoSmd67EYe_ZQ"
+  },
+  {
+    "id":6,
+    "nama_skin":"Ender Pearl",
+    "skin_url":"https://ia801508.us.archive.org/0/items/portal-gum/portal/ender-pearl.png",
+    "view_skin":"https://lh3.googleusercontent.com/PCyyHaea9W1p3_eHNt5OKyRLnU9o6kCryBdddABWhKR2iuFrHMvwv56qR1eqWn_yfXOBuPY-GhCA5ZIkMstK"
+  },
+  {
+    "id":7,
+    "nama_skin":"Portal Chell",
+    "skin_url":"https://ia601508.us.archive.org/0/items/portal-gum/portal/portal-chell.png",
+    "view_skin":"https://lh3.googleusercontent.com/EPfM3PS1aYH0xzjIKnES-1QKWIm5t58lW6yCxefXXfU-QnldOplBOnA_TmzfT4v_XMof8Dp-nZKa6q4cRjwTeA"
+  },
+  {
+    "id":8,
+    "nama_skin":"Portal Skin",
+    "skin_url":"https://ia801508.us.archive.org/0/items/portal-gum/portal/portal-skin.png",
+    "view_skin":"https://lh3.googleusercontent.com/tD60joJHX3t6lwUnJG5-qIVCG_j3VOAxLHEdGZnyP4hWuX22BVx3cOtEVxqVm-oNsaj2R74UiheZEdjgFO-LNg"
+  },
+  {
+    "id":9,
+    "nama_skin":"Portal Picak",
+    "skin_url":"https://ia801508.us.archive.org/0/items/portal-gum/portal/portal-picak.png",
+    "view_skin":"https://lh3.googleusercontent.com/tdqRt9C0zxZxLlT3zixXvhjYZd9xX669T7Q_YgbxZD3bx3mQWSj1sxpDhfD8T5GcBa9XWJZvOnZ1yk4RJIeL4Q"
+  },
+  {
+    "id":10,
+    "nama_skin":"Portal Turret",
+    "skin_url":"https://ia801508.us.archive.org/0/items/portal-gum/portal/portal-turret.png",
+    "view_skin":"https://lh3.googleusercontent.com/L3_MtZdwbKJHnDgzLzbLzvTWrbXMWng1ZEL3SYDhWbb1w6c_1h2e-OhSW5eUVEk2SJm0VFJdX2WkNN0Mx-lJ"
+  },
+  {
+    "id":11,
+    "nama_skin":"Crimson Portal",
+    "skin_url":"https://ia801508.us.archive.org/0/items/portal-gum/portal/crimson-portal.png",
+    "view_skin":"https://lh3.googleusercontent.com/4hfSHDj-crmgr5dUvnvBJsC1RruG5wgw-TqVUwenPNooHcURhdLfgQ_2PIPYdpGqin0_RTQqDTYQIYtWLw7kaQ"
+  },
+  {
+    "id":12,
+    "nama_skin":"Billy Enter Portal",
+    "skin_url":"https://ia801508.us.archive.org/0/items/portal-gum/portal/billy-enter-portal.png",
+    "view_skin":"https://lh3.googleusercontent.com/tIZCl9eZlfhBM2aXYEGO4MNU2AinAC2-5u8YAr8WGagckGTFi9S7_4ktRAdwAwYNtigDLOilTmVaMrvzp33KOyU"
+  },
+  {
+    "id":13,
+    "nama_skin":"Portal 2 Glados",
+    "skin_url":"https://ia801508.us.archive.org/0/items/portal-gum/portal/portal-glados.png",
+    "view_skin":"https://lh3.googleusercontent.com/c2N1nQTgxkecRT1nYBmJAl91szuBG8aN4az4Mxyaq6e2CZ_gJssGiSGMe9ouKuhpZjZWES1_Tv5yWmGaHtKhJR4"
+  },
+  {
+    "id":14,
+    "nama_skin":"Nether portal",
+    "skin_url":"https://ia801508.us.archive.org/0/items/portal-gum/portal/nethar-portal.png",
+    "view_skin":"https://lh3.googleusercontent.com/Xwyoh471RBDfsIVu-v5xS8l1TFA4qoeSZPMOVN_uQzHRY6asAlqZ2IEsHCNAqNN4twhqM7DngaCD2lHPoGKbfQ"
+  },
+  {
+    "id":15,
+    "nama_skin":"Portal Warden",
+    "skin_url":"https://ia801508.us.archive.org/0/items/portal-gum/portal/portal-warden.png",
+    "view_skin":"https://lh3.googleusercontent.com/_dNV2LbCQi2q-BKd-3MkoFeZIwOHXu9pIE7oaOKdMz5E_bY7RHhF1qCt_YMW9R_qXN14ENsyJTTFIdsaqXAQaA"
+  },
+  {	
+	 "id":16,
+    "nama_skin":"Yello Portal",
+    "skin_url":"https://ia801508.us.archive.org/0/items/portal-gum/portal/yello-portal.png",
+    "view_skin":"https://lh3.googleusercontent.com/bTpMJQ-jR3xyURMIX9cDRtqdiwZE2yTvdYpBaMz2vQ-QC4xpGT4bRsvETmAEPFI_oFowKJyPBdQ9zZTBsENK5g"
+  },
+  {
+    "id":17,
+    "nama_skin":"Leon Radgen Street",
+    "skin_url":"https://ia601508.us.archive.org/0/items/portal-gum/portal/leon-radgen.png",
+    "view_skin":"https://lh3.googleusercontent.com/ua4fE5xfaagfje4l_DX-1KM-Mndx7G_hLQAqDc16XLqf7GIJf_89o8-eGA0N4UWayRBo0n3a_uCi8K9tEBaOVw"
+  },
+  {
+    "id":18,
+    "nama_skin":"Real Creeper Portal",
+    "skin_url":"https://ia801508.us.archive.org/0/items/portal-gum/portal/real-creeper.png",
+    "view_skin":"https://lh3.googleusercontent.com/iw7dIGtCSSzwGItcxctx4NujJO85AZvv1JSxPiJ_bMTWkI5pJCqBgvl0EGlSHnUPP-clBZ-3JDXapx4aJ0t-R0s"
+  },
+  {
+    "id":19,
+    "nama_skin":"Chell Portal 2",
+    "skin_url":"https://ia801508.us.archive.org/0/items/portal-gum/portal/chell-portal-2.png",
+    "view_skin":"https://lh3.googleusercontent.com/89FMySJfuTKUuQP5ul4MEU1htTwUX8rgPhNcBnmuN75MynLTCUYRv82ISeHC0jGYI6FE3L6kKmD4CTUT7ZAZ"
+  },
+  {
+    "id":20,
+    "nama_skin":"Ultra Portal End",
+    "skin_url":"https://ia801508.us.archive.org/0/items/portal-gum/portal/ultra-portal.png",
+    "view_skin":"https://lh3.googleusercontent.com/UFhLaZSssZzhdSYD9g3NuH9bQ4BYJcbXF5sb9ixICdQxxg-9Ob7Um4WVL5-_p4Xs0_HTZvBv7nZXMJK8Ds4f"
+  },
+  {
+    "id":21,
+    "nama_skin":"The End Portal",
+    "skin_url":"https://ia801508.us.archive.org/0/items/portal-gum/portal/the-end-portal.png",
+    "view_skin":"https://lh3.googleusercontent.com/M1D7duiTtLNjJjVqDLmdbmVL523QCa_8xGh4dOZrU9a7CxaESQO2B-WBvnyA56FpQoN9y_GOEIiS4rNqhh8yrA"
+  },
+  {
+    "id":22,
+    "nama_skin":"Portal Pijama",
+    "skin_url":"https://ia801508.us.archive.org/0/items/portal-gum/portal/portal-pijama.png",
+    "view_skin":"https://lh3.googleusercontent.com/COt1-wbyaP6bxX1tkl6JsUVuhWvCZp0w49AdsmzxPYbV6Zv8f5HpDlSj7kauoMCbM26WGsQ6N0me56r_WUuu"
+  },
+  {
+    "id":23,
+    "nama_skin":"Chewie Portal",
+    "skin_url":"https://ia801508.us.archive.org/0/items/portal-gum/portal/chewie-portal.png",
+    "view_skin":"https://lh3.googleusercontent.com/rd8PM7n4wqCCUrv5ZbDLme4XEfkwxPBseFIiSua8fqPdJU3IZAn8yGT2Vw0oT5oNIaYmlB0-QFXMgLFCKskVAzU"
+  },
+  {
+    "id":24,
+    "nama_skin":"Water Portal",
+    "skin_url":"https://ia601508.us.archive.org/0/items/portal-gum/portal/water-portal.png",
+    "view_skin":"https://lh3.googleusercontent.com/N-fBF8MtNPl-GI6Jxtbjh7LrbRxfH7frWPpICEuI5oBIwzwOr6tRLx3NsNB_sUGvT47kFU4vuJay5QqnS1dxgA"
+  },
+  {
+    "id":25,
+    "nama_skin":"Fnam3 Nether Portal",
+    "skin_url":"https://ia801508.us.archive.org/0/items/portal-gum/portal/fnam-nether.png",
+    "view_skin":"https://lh3.googleusercontent.com/fkOPytnTwM5Xc82wPsi1Rr-U05LwSasA2XDINdnJxHgZyLfoTDLZEuuZz_KO1cps-NjShCXiqredLZbiBaoQ"
+  },
+  {
+    "id":26,
+    "nama_skin":"Sandwich Portal",
+    "skin_url":"https://ia601508.us.archive.org/0/items/portal-gum/portal/sandwich-portal.png",
+    "view_skin":"https://lh3.googleusercontent.com/qKBYzwmgez_jJ0D3GVZX9AcJKWaZQtvwOXN2cRlk5uM52BK0-w9xcvSrJXEhCbysROraYzyeTbWjnuBV0vfj"
+  },
+  {
+    "id":27,
+    "nama_skin":"Reina Del Portal",
+    "skin_url":"https://ia601508.us.archive.org/0/items/portal-gum/portal/reina-del-portal.png",
+    "view_skin":"https://lh3.googleusercontent.com/hDeBabxdCj-O1WreX8HSivzUjPNOI8zY0hvjizFhs9O-i14KBtufoeudWpiL7wu0dWhTk5IRKsAh8TUZ1jCUyA"
+  },
+  {
+    "id":28,
+    "nama_skin":"Portal Mrnicolasgoub",
+    "skin_url":"https://ia801508.us.archive.org/0/items/portal-gum/portal/portal-mrnicolasgoub.png",
+    "view_skin":"https://lh3.googleusercontent.com/sijfXe5N3tSsHqpAw7Au15AVt2Rm69mBC5u0ZfytF59s11P-eoDhJWNGNCEtAhdh5cWm3ttb_Jb50MPpkOoGog"
+  },
+  {
+    "id":29,
+    "nama_skin":"Tristana portal",
+    "skin_url":"https://ia601508.us.archive.org/0/items/portal-gum/portal/tristana-portal.png",
+    "view_skin":"https://lh3.googleusercontent.com/07d5l5d0KXmPNCV3fVrtzDwo1WVTfcRIWe4CrsoK1PzeGJj9UkkOAqhJG_m5NkOI35F_J9p8FlPFajz5abYxJEo"
+  },
+  {
+    "id":30,
+    "nama_skin":"Caroline Portal 2",
+    "skin_url":"https://ia601508.us.archive.org/0/items/portal-gum/portal/caroline-portal-2.png",
+    "view_skin":"https://lh3.googleusercontent.com/LKCabk3gDRwL_j98mRqZ2FRJ90Gpw3ALho-0Lso65ToYafoHhp2dRH85aONfvmkk2sYFVJZZAnYooQn6xCI5Jg"
+  }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Laser Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/Laserguns.zip",
+      "addB_url":"https://creativemods.github.io/boboi/addon/Laserguns-B.mcpack",
+      "addR_url":"https://creativemods.github.io/boboi/addon/Laserguns-R.mcpack",
+      "view_add":"https://creativemods.github.io/boboi/addon/laserguns.png",
+      "des_add":"https://creativemods.github.io/boboi/addon.html"
+    },
+    {
+      "id":2,
+      "nama_add":"Number Blocks Addon",
+      "add_url":"https://creativemods.github.io/boboi/addon/blocks.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks.png",
+      "des_add":"https://creativemods.github.io/boboi/addon.html"
+    },
+    {
+      "id":3,
+      "nama_add":"The Imposter",
+      "add_url":"https://creativemods.github.io/boboi/addon/Imposter.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/theimposter.png",
+      "des_add":"https://creativemods.github.io/boboi/addon.html"
+    },
+    {
+      "id":4,
+      "nama_add":"Uncrafting Table",
+      "add_url":"https://creativemods.github.io/boboi/addon/Uncraftingtable.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/uncraftingtable.png",
+      "des_add":"https://creativemods.github.io/boboi/addon.html"
+    },
+    {
+      "id":5,
+      "nama_add":"Furniture",
+      "add_url":"https://creativemods.github.io/boboi/addon/furniture.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture.png",
+      "des_add":"https://creativemods.github.io/boboi/addon.html"
+    },
+    {
+      "id":6,
+      "nama_add":"Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/guns.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns.png",
+      "des_add":"https://creativemods.github.io/boboi/addon.html"
+    },
+    {
+      "id":7,
+      "nama_add":"Dynamite Projectile Addon",
+      "add_url":"https://creativemods.github.io/boboi/addon/dynamite.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite.png",
+      "des_add":"https://creativemods.github.io/boboi/addon.html"
+    },
+    {
+      "id":8,
+      "nama_add":"Actual Guns",
+      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunB.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunR.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/actualguns.png",
+      "des_add":"https://creativemods.github.io/boboi/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Bedrock Auto Chicken",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Bedrock.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/bedrock.png",
+	    "des_map":"https://creativemods.github.io/boboi/map.html"
+    },
+    {
+      "id":2,
+      "nama_map":"Among Us Map",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Among-us-Map.zip",
+      "view_map":"https://ia801509.us.archive.org/27/items/amonguscraft_202010/map/Among-us-Map.png",
+	    "des_map":"https://creativemods.github.io/boboi/map.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Among Us Craft",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/amonguscraft.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/amonguscraft.png",
+	    "des_map":"https://creativemods.github.io/boboi/map.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Cubical's Tower",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Cubicalstower.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/cubicalstower.png",
+	    "des_map":"https://creativemods.github.io/boboi/map.html"
+    },
+    {
+      "id":5,
+      "nama_map":"Among Craft",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/amongcraft.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/amongcraft.png",
+	    "des_map":"https://creativemods.github.io/boboi/map.html"
+    },
+    {
+      "id":6,
+      "nama_map":"Achievement World",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/achievementworld.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/achievementworld.png",
+	    "des_map":"https://creativemods.github.io/boboi/map.html"
+    },
+    {
+      "id":7,
+      "nama_map":"HardCoreLine",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.png",
+	    "des_map":"https://creativemods.github.io/boboi/map.html"
+    },
+    {
+      "id":8,
+      "nama_map":"Hello Neighbor",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hello-neighbour.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/cubicalstower.png",
+	    "des_map":"https://creativemods.github.io/boboi/map.html"
+    }
+  ]
+}
